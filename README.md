@@ -8,9 +8,9 @@ cambios en la simulacion. En este desarrollo era importante definir la aleatorid
 ya que tal como pasa en la realidad, una enfermedad nunca se va a comportar como se espera.
 
 # Autores
-- Matías Fonseca
 - Claudio La Rosa
 - Denise Valdés
+- Matías Fonseca
 
 # Ciudadano.py
 En esta clase se definen los atributos y metodos que tendra, el objeto ciudadano dentro 
